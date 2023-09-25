@@ -5,3 +5,4 @@ For now this is a place to store reference articles for interesting topics. As t
 ## Articles 
 
 - [Uber: Setting Uber’s Transactional Data Lake in Motion with Incremental ETL Using Apache Hudi](https://www.uber.com/blog/ubers-lakehouse-architecture/)
+- [Shopify: Lessons Learned From Running Apache Airflow at Scale](https://shopify.engineering/lessons-learned-apache-airflow-scale)
