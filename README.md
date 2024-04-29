@@ -8,5 +8,5 @@ For now this is a place to store reference articles for interesting topics. As t
 - [Shopify: Lessons Learned From Running Apache Airflow at Scale](https://shopify.engineering/lessons-learned-apache-airflow-scale)
 - [Python Multiprocessing Pool: The Complete Guide](https://docs.google.com/document/d/e/2PACX-1vSdMfy94dB8shZHsY47SE1vDlgz3DvP397tattPPLIMKqBn7x3bMi_FJPj85-YSE7Fcqz18g73GDfs7/pub)
 - [Powered by AI: Instagram’s Explore recommender system](https://ai.meta.com/blog/powered-by-ai-instagrams-explore-recommender-system/)
-- [How Spotify Recommendation System Works](music-tomorrow.com/blog/how-spotify-recommendation-system-works-a-complete-guide-2022)
+- [How Spotify Recommendation System Works](https://music-tomorrow.com/blog/how-spotify-recommendation-system-works-a-complete-guide-2022)
 - [Recommending Items To More Than A Billion People](https://engineering.fb.com/2015/06/02/core-infra/recommending-items-to-more-than-a-billion-people/)
