@@ -11,3 +11,4 @@ For now this is a place to store reference articles for interesting topics. As t
 - [How Spotify Recommendation System Works](https://music-tomorrow.com/blog/how-spotify-recommendation-system-works-a-complete-guide-2022)
 - [Recommending Items To More Than A Billion People](https://engineering.fb.com/2015/06/02/core-infra/recommending-items-to-more-than-a-billion-people/)
 - [RecSysOps: Best Practices for Operating a Large-Scale Recommender System](https://netflixtechblog.medium.com/recsysops-best-practices-for-operating-a-large-scale-recommender-system-95bbe195a841)
+- [ML Test Score: A Rubric for ML Production Readiness](https://research.google/pubs/the-ml-test-score-a-rubric-for-ml-production-readiness-and-technical-debt-reduction/)
