@@ -12,3 +12,14 @@ For now this is a place to store reference articles for interesting topics. As t
 - [Recommending Items To More Than A Billion People](https://engineering.fb.com/2015/06/02/core-infra/recommending-items-to-more-than-a-billion-people/)
 - [RecSysOps: Best Practices for Operating a Large-Scale Recommender System](https://netflixtechblog.medium.com/recsysops-best-practices-for-operating-a-large-scale-recommender-system-95bbe195a841)
 - [ML Test Score: A Rubric for ML Production Readiness](https://research.google/pubs/the-ml-test-score-a-rubric-for-ml-production-readiness-and-technical-debt-reduction/)
+
+## Engineering blogs
+
+- [Airbnb Engineering and Data Science](https://airbnb.io/)
+- [Uber: Engineering](https://www.uber.com/en-US/blog/engineering/)
+- [Uber: Data/ML](https://www.uber.com/en-US/blog/data/)
+- [Netflix TechBlog](https://netflixtechblog.com/)
+- [Spotify: Engineering](https://engineering.atspotify.com/)
+- [Spotify: Research](https://research.atspotify.com/blog/)
+- [Booking.com](https://blog.booking.com/)
+- [Discord](https://discord.com/category/engineering)
