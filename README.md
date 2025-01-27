@@ -12,6 +12,7 @@ For now this is a place to store reference articles for interesting topics. As t
 - [Recommending Items To More Than A Billion People](https://engineering.fb.com/2015/06/02/core-infra/recommending-items-to-more-than-a-billion-people/)
 - [RecSysOps: Best Practices for Operating a Large-Scale Recommender System](https://netflixtechblog.medium.com/recsysops-best-practices-for-operating-a-large-scale-recommender-system-95bbe195a841)
 - [ML Test Score: A Rubric for ML Production Readiness](https://research.google/pubs/the-ml-test-score-a-rubric-for-ml-production-readiness-and-technical-debt-reduction/)
+- [Exploiting Sequential Music Preferences via Optimization Base Sequencing](https://research.atspotify.com/2023/10/exploiting-sequential-music-preferences-via-optimisation-based-sequencing/)
 
 ## Engineering blogs
 
