@@ -15,6 +15,7 @@ For now this is a place to store reference articles for interesting topics. As t
 - [Exploiting Sequential Music Preferences via Optimization Base Sequencing](https://research.atspotify.com/2023/10/exploiting-sequential-music-preferences-via-optimisation-based-sequencing/)
 - [Create Leadership at Every Level](https://www.youtube.com/watch?v=psAXMqxwol8)
   - David Marquet talk on how to turn the ship around. Create leadership at every level. Good listen
+- [Designing Data Products](https://martinfowler.com/articles/designing-data-products.html)
 
 ## Engineering blogs
 
