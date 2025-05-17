@@ -17,6 +17,7 @@ For now this is a place to store reference articles for interesting topics. As t
   - David Marquet talk on how to turn the ship around. Create leadership at every level. Good listen
 - [Designing Data Products](https://martinfowler.com/articles/designing-data-products.html)
 - [Becoming competitive when joining a new company](https://ludwigabap.bearblog.dev/on-becoming-competitive-when-joining-a-new-company/)
+- [Personalization Algorithms at Netflix Using Interleaving](https://netflixtechblog.com/interleaving-in-online-experiments-at-netflix-a04ee392ec55)
 
 ## Engineering blogs
 
