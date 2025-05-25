@@ -18,6 +18,7 @@ For now this is a place to store reference articles for interesting topics. As t
 - [Designing Data Products](https://martinfowler.com/articles/designing-data-products.html)
 - [Becoming competitive when joining a new company](https://ludwigabap.bearblog.dev/on-becoming-competitive-when-joining-a-new-company/)
 - [Personalization Algorithms at Netflix Using Interleaving](https://netflixtechblog.com/interleaving-in-online-experiments-at-netflix-a04ee392ec55)
+- [Always Do Extra](https://www.bennorthrop.com/Essays/2021/always-do-extra.php]
 
 ## Engineering blogs
 
