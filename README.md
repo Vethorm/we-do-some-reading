@@ -19,6 +19,7 @@ For now this is a place to store reference articles for interesting topics. As t
 - [Becoming competitive when joining a new company](https://ludwigabap.bearblog.dev/on-becoming-competitive-when-joining-a-new-company/)
 - [Personalization Algorithms at Netflix Using Interleaving](https://netflixtechblog.com/interleaving-in-online-experiments-at-netflix-a04ee392ec55)
 - [Always Do Extra](https://www.bennorthrop.com/Essays/2021/always-do-extra.php)
+- [The Bitter Lesson is coming for Tokenization](https://lucalp.dev/bitter-lesson-tokenization-and-blt/)
 
 ## Engineering blogs
 
